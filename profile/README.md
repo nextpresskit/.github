@@ -26,7 +26,7 @@ The backend service powers the core logic of the platform, including:
 
 The frontend is built with modern web technologies to provide a fast and seamless user experience.
 
-- Built with **Next.js** (React framework for SSR & SSG)
+- Built with **TanStack Start** (React framework for SSR & SSG)
 - Optimized UI/UX
 - API integration with backend services
 - Modular and component-driven architecture
@@ -45,7 +45,7 @@ The frontend is built with modern web technologies to provide a fast and seamles
 ## ⚙️ Tech Stack
 
 ### Frontend
-- Next.js
+- TanStack Start
 - React
 - TypeScript (if applicable)
 - Tailwind / CSS modules (adjust if needed)
