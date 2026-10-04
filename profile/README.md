@@ -47,13 +47,13 @@ The frontend is built with modern web technologies to provide a fast and seamles
 ### Frontend
 - TanStack Start
 - React
-- TypeScript (if applicable)
-- Tailwind / CSS modules (adjust if needed)
+- TypeScript
+- Tailwind CSS + shadcn/ui
 
 ### Backend
-- Node.js / (your backend framework)
-- REST API / GraphQL (adjust if needed)
-- Database (PostgreSQL / MongoDB / etc.)
+- Go + Gin
+- REST API (OpenAPI contract)
+- PostgreSQL (Redis and Elasticsearch optional)
 
 ---
 
